@@ -6,9 +6,12 @@ Previously, I obtained my B.Sc. from [Huazhong University of Science and Technol
 
 I can be reached at: yuyizhong@comp.nus.edu.sg.
 
-### Markdown
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests lie in applying formal methods used in program analysis to neural network verification. Currently, I am focusing on a research project of building a configurable neural network verification platform that enables quick and systematic construction and experimentation of network analyses. 
+To do so, we first build a verification tool BBPoly that enables fast but efficient network verificatoin with limited computational resources. 
+Our second work constructs a verification method ARENA that conducts both robustness verification and falsificatoin effectively and efficiently.
+The ongoing work focuses on a sound and complete verifier that scales up to handle larger networks.
 
 ```markdown
 Syntax highlighted code block
