@@ -13,25 +13,7 @@ To do so, we first build a verification tool BBPoly that enables fast but effici
 Our second work constructs a verification method ARENA that conducts both robustness verification and falsificatoin effectively and efficiently.
 The ongoing work focuses on a sound and complete verifier that scales up to handle larger networks.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details about my research and pubilications, please check [my CV](https://github.com/JacksonZyy/homepage/blob/331b9819fe1977703d3cf3ab08782ae88e8d7c13/files/CV_yuyi.pdf)
 
 ### Jekyll Themes
 
