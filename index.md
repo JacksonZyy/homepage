@@ -15,10 +15,13 @@ The ongoing work focuses on a sound and complete verifier that scales up to hand
 
 For more details about my research and pubilications, please check [my CV](https://jacksonzyy.github.io/homepage/files/CV_yuyi.pdf)
 
-### Jekyll Themes
+### Teaching and Grading
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacksonZyy/yuyizhong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* CS3219, Software Engineering Principles and Patterns, NUS, 2020
+* CS1010J, Programming Methodology, Java language, NUS, 2020
+* CS1010E, Programming Methodology, Python language, NUS, 2019-2021
 
-### Support or Contact
+### GitHub Repositories
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [BBPoly](https://github.com/JacksonZyy/BBPoly.git) 
+* [ARENA](https://github.com/arena-verifier)
