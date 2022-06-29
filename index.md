@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the homepage of Yuyi Zhong
 
-You can use the [editor on GitHub](https://github.com/JacksonZyy/yuyizhong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Yuyi and I am a Ph.D candidate at [School of Computing, National University of Singgapore](https://www.comp.nus.edu.sg/) (NUS). Currently, I am under the supervision of Associate Professor [KHOO Siau Cheng](https://www.comp.nus.edu.sg/cs/people/khoosc/) to analyze and verify the safety and security of neural networks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously, I obtained my B.Sc. from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST), China in 2018 where I worked in software security including vulnerability detection.
+
+I can be reached at: yuyizhong@comp.nus.edu.sg.
 
 ### Markdown
 
