@@ -22,7 +22,7 @@ For more details about my research and pubilications, please check [my CV](https
     - International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2023
 2. Scalable and Modular Robustness Analysis of Deep Neural Networks
     - <ins>Yuyi Zhong</ins>, Quang-Trung Ta, Tianzuo Luo, Fanlong Zhang, Siau-Cheng Khoo
-    - Asian Symposium on Programming Languages and Systems (APLAS),2021
+    - Asian Symposium on Programming Languages and Systems (APLAS), 2021
 3. SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection
     - Deqing Zou, Hanchao Qi, Zhen Li, Song Wu, Hai Jin, Guozhong Sun, Sujuan Wang, <ins>Yuyi Zhong</ins>
     - International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), 2017
