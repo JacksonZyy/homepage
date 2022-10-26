@@ -17,29 +17,18 @@ For more details about my research and pubilications, please check [my CV](https
 
 ### Conference Papers
 
-* **ARENA: Enhancing Abstract Refinement for Neural Network Verification**
-  
-  ***Yuyi Zhong***, Quang-Trung Ta, Siau-Cheng Khoo
-  
-  International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2023
-  
-* **Scalable and Modular Robustness Analysis of Deep Neural Networks**
-
-  ***Yuyi Zhong***, Quang-Trung Ta, Tianzuo Luo, Fanlong Zhang, Siau-Cheng Khoo
-
-  Asian Symposium on Programming Languages and Systems (APLAS),2021
-
-* **SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection**
-  
-  Deqing Zou, Hanchao Qi, Zhen Li, Song Wu, Hai Jin, Guozhong Sun, Sujuan Wang, ***Yuyi Zhong***
-  
-  International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), 2017
-  
-* **VulDeePecker: A Deep Learning-Based System for Vulnerability Detection**
-
-  Zhen Li, Deqing Zou, Shouhuai Xu, Xinyu Ou, Hai Jin, Sujuan Wang, Zhijun Deng, ***Yuyi Zhong***
-  
-  Annual Network and Distributed System Security Symposium (NDSS), 2018
+1. ARENA: Enhancing Abstract Refinement for Neural Network Verification
+    - <ins>Yuyi Zhong</ins>, Quang-Trung Ta, Siau-Cheng Khoo
+    - International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2023
+2. Scalable and Modular Robustness Analysis of Deep Neural Networks
+    - <ins>Yuyi Zhong</ins>, Quang-Trung Ta, Tianzuo Luo, Fanlong Zhang, Siau-Cheng Khoo
+    - Asian Symposium on Programming Languages and Systems (APLAS),2021
+3. SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection
+    - Deqing Zou, Hanchao Qi, Zhen Li, Song Wu, Hai Jin, Guozhong Sun, Sujuan Wang, <ins>Yuyi Zhong</ins>
+    - International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), 2017
+4. VulDeePecker: A Deep Learning-Based System for Vulnerability Detection
+    - Zhen Li, Deqing Zou, Shouhuai Xu, Xinyu Ou, Hai Jin, Sujuan Wang, Zhijun Deng, <ins>Yuyi Zhong</ins>
+    - Annual Network and Distributed System Security Symposium (NDSS), 2018
 
 
 ### Teaching and Grading
