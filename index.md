@@ -12,7 +12,7 @@ My research interests lie in applying formal methods used in program analysis to
 To do so, we first build a verification tool BBPoly that enables fast but efficient network verification with limited computational resources. 
 Our second work constructs a verification method ARENA that conducts both robustness verification and falsification effectively and efficiently.
 The third work focuses on a pre-processing technique REDNet before the verification process, which generates a reduced network that helps accelerate the subsequent verification.
-My current ongoing work is optimization-based network verification on GPU.
+My current ongoing work is optimization-based network verification on GPU, in collaboration with Dr. Hanping Xu and Shaun Tan.
 
 For more details about my research and publications, please check [my CV](https://jacksonzyy.github.io/homepage/files/CV_yuyi.pdf).
 
