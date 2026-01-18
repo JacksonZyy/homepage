@@ -1,6 +1,6 @@
 ## Welcome to the homepage of Yuyi Zhong
 
-My name is Yuyi, and I am a Ph.D. candidate at [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) (NUS). Currently, I am under the supervision of Associate Professor [KHOO Siau Cheng](https://www.comp.nus.edu.sg/cs/people/khoosc/) to analyze and verify the safety and security of neural networks.
+My name is Yuyi, and I completed my Ph.D. at [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg/) (NUS) under the supervision of Associate Professor [KHOO Siau Cheng](https://www.comp.nus.edu.sg/cs/people/khoosc/) to analyze and verify the safety and security of neural networks.
 
 Previously, I obtained my B.Sc. from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) (HUST), China in 2018 where I worked in software security including vulnerability detection.
 
@@ -12,26 +12,28 @@ My research interests lie in applying formal methods used in program analysis to
 To do so, we first build a verification tool BBPoly that enables fast but efficient network verification with limited computational resources. 
 Our second work constructs a verification method ARENA that conducts both robustness verification and falsification effectively and efficiently.
 The third work focuses on a pre-processing technique REDNet before the verification process, which generates a reduced network that helps accelerate the subsequent verification.
-My current ongoing work is optimization-based network verification on GPU, in collaboration with Dr. Hanping Xu and Shaun Tan.
+My most recent research work is an optimisation-based network verification technique named GRENA on GPU, in collaboration with Dr. Hanping Xu and Shaun Tan.
 
 For more details about my research and publications, please check [my CV](https://jacksonzyy.github.io/homepage/files/CV_yuyi.pdf).
 
 ### Conference Papers
-
-1. Expediting Neural Network Verification via Network Reduction
+1. GRENA: GPU-Aided Abstract Refinement for Neural Network Verification
+    - <ins>Yuyi Zhong</ins>, Shaun Zong Zhi Tan, Hanping Xu, Siau-Cheng Khoo
+    - International Symposium on AI Verification (SAIV), 2025
+2. Expediting Neural Network Verification via Network Reduction
     - <ins>Yuyi Zhong</ins>\*, Ruiwei Wang\*, Siau-Cheng Khoo
     - \* means equal contribution
     - IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
-2. ARENA: Enhancing Abstract Refinement for Neural Network Verification
+3. ARENA: Enhancing Abstract Refinement for Neural Network Verification
     - <ins>Yuyi Zhong</ins>, Quang-Trung Ta, Siau-Cheng Khoo
     - International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2023
-3. Scalable and Modular Robustness Analysis of Deep Neural Networks
+4. Scalable and Modular Robustness Analysis of Deep Neural Networks
     - <ins>Yuyi Zhong</ins>, Quang-Trung Ta, Tianzuo Luo, Fanlong Zhang, Siau-Cheng Khoo
     - Asian Symposium on Programming Languages and Systems (APLAS), 2021
-4. SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection
+5. SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection
     - Deqing Zou, Hanchao Qi, Zhen Li, Song Wu, Hai Jin, Guozhong Sun, Sujuan Wang, <ins>Yuyi Zhong</ins>
     - International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), 2017
-5. VulDeePecker: A Deep Learning-Based System for Vulnerability Detection
+6. VulDeePecker: A Deep Learning-Based System for Vulnerability Detection
     - Zhen Li, Deqing Zou, Shouhuai Xu, Xinyu Ou, Hai Jin, Sujuan Wang, Zhijun Deng, <ins>Yuyi Zhong</ins>
     - Annual Network and Distributed System Security Symposium (NDSS), 2018
 
@@ -43,7 +45,7 @@ For more details about my research and publications, please check [my CV](https:
 * CS1010E, Programming Methodology, Python language, NUS, 2019-2021
 
 ### GitHub Repositories
-
 * [BBPoly](https://github.com/JacksonZyy/BBPoly.git) 
 * [ARENA](https://github.com/arena-verifier)
 * [REDNet](https://github.com/REDNet-verifier/IDNN)
+* [Grena](https://github.com/Grena-verifier/Grena-verifier) 
